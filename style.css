@@ -142,7 +142,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 100px 0;
-  margin: 100 0;
+  margin: 100 0 0;
   background-color: #E5E7EB;
 }
 
@@ -172,7 +172,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 50px;
+  padding: 100px 0;
 }
 
 .call-to-action {
